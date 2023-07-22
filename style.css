@@ -58,23 +58,23 @@ img {
 @keyframes box-resize {
   0% {
     /* background-color: pink; */
-    background-image: url(../Proyecto01/img/bk-1.jpg);
+    background-image: url(./src/bk-1.jpg);
   }
   25% {
     /* background-color: yellow; */
-    background-image: url(../Proyecto01/img/bk-2.jpg);
+    background-image: url(./src/bk-2.jpg);
   }
   50% {
     /* background-color: brown; */
-    background-image: url(../Proyecto01/img/bk-3.jpg);
+    background-image: url(./src/bk-3.jpg);
   }
   75% {
     /* background-color: aquamarine; */
-    background-image: url(../Proyecto01/img/bk-4.jpg);
+    background-image: url(./src/bk-4.jpg);
   }
   100% {
     /* background-color: blueviolet; */
-    background-image: url(../Proyecto01/img/bk-5.jpg);
+    background-image: url(./src/bk-5.jpg);
   }
 }
 
